@@ -1,3 +1,5 @@
+
+
 # Tauri Image Converter to WebP (macOS)
 
 A lightweight Tauri application designed to convert PNG, JPG, and other supported image formats into WebP format using the `cwebp` tool.
@@ -43,3 +45,5 @@ The app will be available in the **src-tauri/target/release/bundle/macos** direc
 ```bash
 cwebp -version
 ```
+## Preview
+![preview](https://raw.githubusercontent.com/VihangaN/webpGui/refs/heads/main/public/preview.png)
